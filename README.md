@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Database-Migration
 =======
 # Data Migration: EC2 File to DynamoDB:
@@ -68,4 +68,4 @@ This project efficiently migrates data from EC2 file storage to DynamoDB, ensuri
 It simplifies data handling, reduces manual effort, and makes the system ready for modern, serverless AWS workflows.
 
 ---
->>>>>>> 855964c (data migration)
+
