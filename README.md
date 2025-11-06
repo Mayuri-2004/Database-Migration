@@ -1,6 +1,6 @@
 
 # Database-Migration
-=======
+
 # Data Migration: EC2 File to DynamoDB:
 
 This project demonstrates how to migrate data stored in files (CSV or JSON) on an **Amazon EC2** instance into an **Amazon DynamoDB** table using Python (Boto3) or Node.js (AWS SDK).
